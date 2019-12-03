@@ -1,1 +1,1 @@
-# xubin
+# hyperledger fabric realize the assetsmanagement
